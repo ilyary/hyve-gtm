@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "hyve-adaaf"
+  },
+  "targets": {
+    "hyve-adaaf": {
+      "hosting": {
+        "gtm": [
+          "hyve-gtm"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
